@@ -1,0 +1,55 @@
+
+.jumbotron {
+    text-align: center;
+    background: none;
+}
+
+.home-jumbo {
+    font-weight: 400;
+}
+
+#maincarousel {
+    max-width: 690px;
+    margin: auto;
+    display: block;
+}
+
+.sectionLight {
+    background-color: #eceeef;
+    padding: 2em;
+}
+
+.sk8 {
+    min-height: 200px;
+    min-width: 100px;
+    max-height: 300px;
+    display: block;
+    margin: auto;
+}
+
+.sectionDark {
+    background-color: #cccccc;
+    padding: 2rem;
+}
+
+.coolStuffBtn {
+    display: block;
+    margin: auto;
+    background-color: red;
+    color: white;
+    box-shadow: 2px 2px 5px 0px rgba(0,0,0,.5);
+}
+
+.coolStuffWraper {
+    margin-top: 20px;
+}
+
+.coolStuffModalTitle {
+    margin: auto;
+}
+
+.modalFormWrapper {
+    padding: 2rem;
+}
+
+
