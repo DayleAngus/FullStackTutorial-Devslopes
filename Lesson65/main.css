@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-* {
-    color: black;
-}
-=======
-
 .jumbotron {
     text-align: center;
     background: none;
@@ -56,6 +50,3 @@
 .modalFormWrapper {
     padding: 2rem;
 }
-
-
->>>>>>> parent of 358bce5... Revert "Added new sections to index.html"
