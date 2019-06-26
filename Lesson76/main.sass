@@ -25,6 +25,8 @@ $brand-light: #e6f2ff
   cursor: pointer
   display: block
   margin: auto
+  &:hover
+    background-color: lighten($brand-main, 20%)
 
 //STYLES
 body
@@ -54,3 +56,9 @@ section
 
 .btn-1
   +btn-main(15px 20px, 7px, $brand-main, white)
+
+.btn-2
+  +btn-main(30px, 50%, $brand-dark, white)
+  font-size: 2rem
+  &:hover
+    background-color: darken($brand-dark, 10%)
